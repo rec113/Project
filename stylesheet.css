@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    font-family:fantasy;
+}
+
+h2{
+    margin-top: 300px;
+    font-size: 500%;
+}
+
+p{
+    font-size: 200%;
+}
